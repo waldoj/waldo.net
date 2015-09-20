@@ -1,2 +1,1 @@
-# waldo.net
-Personal website.
+# Personal Website
